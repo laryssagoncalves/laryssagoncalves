@@ -36,4 +36,4 @@
 </div>
 <br>
 
-<p align="left"><img src="https://github.com/laryssagoncalves/laryssagoncalves/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
+<!--<p align="left"><img src="https://github.com/laryssagoncalves/laryssagoncalves/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>-->
